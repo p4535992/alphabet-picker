@@ -51,3 +51,7 @@ An example of these in practice:
 ### Author and Acknowledgements
 
 + Written by [Chris Cook](http://chris-cook.co.uk)
+
+### Notes
+
+http://jsfiddle.net/xY7tx/2370/
